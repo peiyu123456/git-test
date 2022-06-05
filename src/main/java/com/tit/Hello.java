@@ -10,5 +10,8 @@ public class Hello {
         System.out.println("莫忘少年凌云志，曾许人间第一流！！");
         System.out.println("莫忘少年凌云志，曾许人间第一流！！!");
         System.out.println("莫忘少年凌云志，曾许人间第一流！！！！");
+        System.out.println("莫忘少年凌云志，曾许人间第一流！！");
+        System.out.println("莫忘少年凌云志，曾许人间第一流！！");
+        System.out.println("莫忘少年凌云志，曾许人间第一流！！");
     }
 }
