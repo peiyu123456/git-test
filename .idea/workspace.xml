@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa8f50ac-391f-493c-b99f-c08843dd1636" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tit/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tit/Hello.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hot-fix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2A8d7zoTJn1JEWjV3Oyo6xTLuGj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa8f50ac-391f-493c-b99f-c08843dd1636" name="Default Changelist" comment="" />
+      <created>1654394983158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654394983158</updated>
+      <workItem from="1654394985867" duration="623000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <created>1654395163901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654395163901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2.0">
+      <created>1654395231860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654395231860</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hot-fix 1.0">
+      <created>1654395536722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654395536722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <MESSAGE value="2.0" />
+    <MESSAGE value="hot-fix 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix 1.0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="114" key="CommitChangelistDialog2" timestamp="1654395535802">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="572" y="114" key="CommitChangelistDialog2/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1654395535802" />
+    <state x="92" y="92" width="1736" height="848" key="DiffContextDialog" timestamp="1654395614379">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="92" y="92" width="1736" height="848" key="DiffContextDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1654395614379" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1654395036123">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1654395036123" />
+    <state x="184" y="92" key="MergeDialog" timestamp="1654395588468">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="184" y="92" key="MergeDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1654395588468" />
+    <state x="669" y="233" key="MultipleFileMergeDialog" timestamp="1654395629187">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="669" y="233" key="MultipleFileMergeDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1654395629187" />
+    <state x="463" y="161" key="SettingsEditor" timestamp="1654395010658">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="463" y="161" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1654395010658" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1654394985969">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1654394985969" />
+    <state x="722" y="231" key="git4idea.branch.GitSmartOperationDialog" timestamp="1654395625461">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="722" y="231" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1654395625461" />
+  </component>
+</project>
